@@ -1,3 +1,14 @@
+==========
+How to use
+==========
+
+To use this module. Install the module via the bash terminal using the commmand;
+
+$~/ pip install git+https://github.com/oleathlc/sysinfo.git
+
+This will install the module on your machine as a python module. Now you can import this 
+module and use sysinfo.main() to return the platform information.
+
 =======
 sysinfo
 =======
